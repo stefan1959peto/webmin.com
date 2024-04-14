@@ -5,7 +5,7 @@ date: 2023-15-01
 
 The following books on Webmin are available for purchase from Amazon and fine bookstores everywhere or for digital download.
 
-### Purcahse
+### Purchase
 * [Managing Linux Systems with Webmin][1] by Jamie Cameron
    
    Covers Webmin 1.100 extensively, and also includes an introduction to Usermin and a guide to module development.
